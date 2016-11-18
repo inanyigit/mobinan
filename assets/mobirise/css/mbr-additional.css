@@ -9,17 +9,36 @@
 #menu-0 .mbr-navbar__hamburger {
   color: #ffffff;
 }
+#menu-0 .mbr-navbar__items a {
+  font-size: 20px;
+}
 #header1-1 P {
   color: #000000;
   font-family: 'Oxygen', sans-serif;
   font-size: 21px;
   text-align: center;
 }
+#testimonials1-2 .mbr-reviews__text P {
+  text-align: center;
+  color: #000000;
+}
+#testimonials1-2 .mbr-section__header {
+  font-size: 20px;
+}
+#slider2-5 P {
+  text-align: left;
+}
 #menu-0 .mbr-brand__name {
   font-size: 16px;
 }
 #menu-0.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
+}
+#menu-0 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-0 .mbr-navbar__items a {
+  font-size: 20px;
 }
 #msg-box5-10 .mbr-header__text {
   color: #ffffff;
