@@ -13,17 +13,13 @@
   font-size: 20px;
 }
 #header1-1 P {
-  color: #ffffff;
+  color: #7ac673;
   font-family: 'Oxygen', sans-serif;
   font-size: 21px;
   text-align: left;
 }
-#testimonials1-2 .mbr-reviews__text P {
-  text-align: center;
-  color: #000000;
-}
-#testimonials1-2 .mbr-section__header {
-  font-size: 20px;
+#header1-1 B {
+  color: #252525;
 }
 #slider2-5 P {
   text-align: left;
@@ -32,9 +28,18 @@
   color: #000000;
   text-align: left;
 }
-#content5-8 .mbr-header .mbr-header__text {
+#testimonials1-2 .mbr-reviews__text P {
   text-align: center;
+  color: #252525;
+}
+#testimonials1-2 .mbr-section__header {
+  font-size: 20px;
+  color: #252525;
+}
+#content5-8 .mbr-header .mbr-header__text {
+  text-align: left;
   color: #fff;
+  font-size: 22px;
 }
 #content5-8 .mbr-header .mbr-header__subtext {
   text-align: center;
@@ -42,6 +47,10 @@
 }
 #content5-8 .mbr-article {
   color: #fff;
+  text-align: left;
+}
+#content5-8 .mbr-article P {
+  font-size: 15px;
 }
 #slider2-d H1 {
   text-align: left;
